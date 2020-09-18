@@ -1,0 +1,56 @@
+﻿<Properties StartupConfiguration="{50445DC0-3773-4225-88E0-1401E65D4C18}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="vidlie/Migrations/20200918121700_startingfromscratch2.Designer.cs">
+    <Files>
+      <File FileName="vidlie/Controllers/HomeController.cs" Line="6" Column="1" />
+      <File FileName="vidlie/Models/BloggingDbContextModel.cs" Line="12" Column="32" />
+      <File FileName="vidlie/Models/CustomerModel.cs" Line="17" Column="1" />
+      <File FileName="vidlie/Models/SubscriptionModel.cs" Line="15" Column="1" />
+      <File FileName="vidlie/Models/ErrorViewModel.cs" Line="1" Column="1" />
+      <File FileName="readme.md" Line="9" Column="86" />
+      <File FileName="vidlie/Migrations/20200918120829_startingfromscratch.cs" Line="1" Column="1" />
+      <File FileName="vidlie/Migrations/20200918120829_startingfromscratch.Designer.cs" Line="62" Column="1" />
+      <File FileName="vidlie/Migrations/VidlieDbContextModelSnapshot.cs" Line="1" Column="1" />
+      <File FileName="vidlie/Startup.cs" Line="29" Column="10" />
+      <File FileName="vidlie/Migrations/20200918121700_startingfromscratch2.cs" Line="1" Column="1" />
+      <File FileName="vidlie/Migrations/20200918121700_startingfromscratch2.Designer.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="vidlie" expanded="True">
+            <Node name="Solution Items" expanded="True" />
+            <Node name="vidlie" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Areas" expanded="True">
+                <Node name="Identity" expanded="True">
+                  <Node name="Pages" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Migrations" expanded="True">
+                <Node name="20200918121700_startingfromscratch2.cs" expanded="True">
+                  <Node name="20200918121700_startingfromscratch2.Designer.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.vidlie PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
